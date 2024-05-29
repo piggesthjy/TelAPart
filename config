@@ -1,0 +1,1 @@
+{"window_size": 1, "maintenance_threshold": 5, "abnormal_thresholds": {"Tx Power": [0.65, 0.5, []], "SNR": [0.65, 0.25, [["less", 25], ["min", 8], ["var", 15]]], "Missing": [0.9, 0.25]}}
